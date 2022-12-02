@@ -1,16 +1,16 @@
 # Microservices
 
-.NET 6 Microservices Architecture
-Implementing 7 microservices using .NET 6
-.NET API with Authentication and Authorization
-Identity Server integration
-Role based authorization with Identity Server
-Async and Sync communcation between Microservices
-Azure Blob Storage basics
-Azure Service Bus - Topics and Queues
-Gateways in Microservices
-Implementing Ocelot gateway
-Swagger Open API implementation
-N-Layer implementation with Repository Pattern
-ASPNET Core Web Application with Bootstrap 5
-Entity Framework Core with SQL Server Database
+.NET 6 Microservices Architecture <br />
+Implementing 7 microservices using .NET 6 <br />
+.NET API with Authentication and Authorization <br />
+Identity Server integration <br />
+Role based authorization with Identity Server <br />
+Async and Sync communcation between Microservices <br />
+Azure Blob Storage basics <br />
+Azure Service Bus - Topics and Queues <br />
+Gateways in Microservices <br />
+Implementing Ocelot gateway <br />
+Swagger Open API implementation <br />
+N-Layer implementation with Repository Pattern <br /> <br />
+ASPNET Core Web Application with Bootstrap 5 <br />
+Entity Framework Core with SQL Server Database <br />
