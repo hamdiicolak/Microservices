@@ -11,6 +11,6 @@ Azure Service Bus - Topics and Queues <br />
 Gateways in Microservices <br />
 Implementing Ocelot gateway <br />
 Swagger Open API implementation <br />
-N-Layer implementation with Repository Pattern <br /> <br />
+N-Layer implementation with Repository Pattern <br />
 ASPNET Core Web Application with Bootstrap 5 <br />
 Entity Framework Core with SQL Server Database <br />
